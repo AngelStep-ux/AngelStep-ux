@@ -44,7 +44,7 @@ Hi! I'm Angelina. I'm a Backend Developer <img src="https://media.giphy.com/medi
 </div>
 
 ---
-# 📂 Мои проекты (пока учебные)
+# 📂 Мои проекты 
 
 :book: **ТГ-бот для изучения английского языка**  
 [Ссылка на проект](https://github.com/AngelStep-ux/TeleBot2/blob/main/main.py)  
