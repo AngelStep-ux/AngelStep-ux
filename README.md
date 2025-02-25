@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :
 Hi! I'm Angelina. I'm a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-[Link to resume_rus](https://drive.google.com/file/d/1EMcfS8zYz5akGkWv3fyyY80wrW-5yZih/view?usp=drive_link)
+- [Link to resume_rus](https://drive.google.com/file/d/1EMcfS8zYz5akGkWv3fyyY80wrW-5yZih/view?usp=drive_link)
 - :telescope: I graduated from a course of Netology by profession as a Python-developer.  
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles. 
@@ -26,7 +26,7 @@ Hi! I'm Angelina. I'm a Backend Developer <img src="https://media.giphy.com/medi
 
 ### :woman_technologist: Обо мне :
 Привет! Я Ангелина. Я бэкенд-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
-[Ссылка на резюме_рус](https://drive.google.com/file/d/1EMcfS8zYz5akGkWv3fyyY80wrW-5yZih/view?usp=drive_link)
+- [Ссылка на резюме_рус](https://drive.google.com/file/d/1EMcfS8zYz5akGkWv3fyyY80wrW-5yZih/view?usp=drive_link)
 - :telescope: Я окончила курс Нетологии по специальности Python-разработчик.
 - :seedling: Изучаю техническое написание контента.
 - :zap: В свободное время решаю задачи на GeeksforGeeks и читаю технические статьи.
